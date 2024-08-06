@@ -1,0 +1,19 @@
+//Contact Info:
+//==================================
+//Telegram : https://t.me/ro0tM8n
+//================================== 
+//ro0tM8n | Channel 🔰 :  https://t.me/ro0tM8n_official_channel
+//==================================
+
+1 - Open TO 'setting' folder 
+2 - Open "config.php" 
+3 - Add your Telegram bot token & chat id 
+
+
+
+//Contact Info:
+//==================================
+//Telegram : https://t.me/ro0tM8n
+//================================== 
+//ro0tM8n | Channel 🔰 :  https://t.me/ro0tM8n_official_channel
+//==============================
